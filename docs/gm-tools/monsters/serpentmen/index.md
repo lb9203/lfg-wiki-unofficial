@@ -1,0 +1,3 @@
+# **Serpentmen**
+
+Serpentmen are a cruel and despotic race from a lost age, once great rulers over early humankind but now forgotten and exiled into dark corners of the world. They breed two primary forms, the *Ssurloc* warrior, a giant, 8 ft hybrid serpent with a humanoid upper torso, and the *Hraarsk* cultists; a reptilian biped that can often pass for human in a cloak and cowl. Some ancient writings also refer toa third form, the noble caste *Razkart*, recorded as beautiful, cold blooded, human like beings, able to conceal their forked tongues and reptilian eyes through shapeshifting.

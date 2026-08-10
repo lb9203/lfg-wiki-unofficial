@@ -1,0 +1,18 @@
+# build output
+site/
+.cache/
+
+# source material (large OCR exports, source PDF)
+output/
+*.pdf
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+
+# ide
+.idea/
+
+# os
+.DS_Store

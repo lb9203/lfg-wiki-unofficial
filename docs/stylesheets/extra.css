@@ -1,0 +1,5 @@
+/* Numeric tables (e.g. attack bonus tables) size to content instead of
+   the theme's 5rem-per-header-cell floor, which overflowed at 13 columns. */
+.md-typeset table:not([class]) th {
+    min-width: 0;
+}

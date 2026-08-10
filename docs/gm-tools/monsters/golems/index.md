@@ -1,0 +1,3 @@
+# Golems
+
+Golems are humanoid automatons built to serve their masters. The process is long, dark and gruelling, requiring an unwilling sacrifice to provide the golem's animating spark. Golems have a 50% chance of negating hits by non-magical weapons. Golems do not sleep, eat, or breathe, and are immune to all mind based effects, including sleep, charm, fear, illusion, stun and madness. Golems automatically sense physical creatures within approximately 30 ft.

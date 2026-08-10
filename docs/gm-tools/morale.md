@@ -1,0 +1,3 @@
+# Morale
+
+Certain monsters, such as mindless enemies or fanatics, are fearless and always fight to the death. The majority, however, will not continue to fight a hopeless battle, and seek to retreat, surrender or flee instead. The GM decides when monsters abandon the battle and retreat, based on the situation and the monster's intelligence. Alternatively a Will check could determine whether the monsters have the grit to fight on. Morale checks are modified by the leader's Cha modifier, if any. The party's own NPC allies are subject to morale. Adventurers never test for morale; the players decide when to fight and when to flee.

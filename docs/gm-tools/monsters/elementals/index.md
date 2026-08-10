@@ -1,0 +1,3 @@
+# Elementals
+
+Elementals are 6 ft to 20 ft animate manifestations of earth, fire, air and water. Earth and fire elementals tend to adopt a humanoid form, air elementals appear as miniature cyclones, and water elementals as churning waves. They are sometimes encountered as a result of being summoned by others, but also independently coalesce. Elementals have an animalistic intelligence but will follow the orders of their summoner to the best of their understanding. All elementals are immune to mundane weapons, except those of cold iron, which affect them normally. Elementals with 15 HD have a 10 ft reach.

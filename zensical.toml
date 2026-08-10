@@ -1,0 +1,159 @@
+[project]
+nav = [
+    { "What Is Low Fantasy Gaming?" = "index.md" },
+    { "Creating a Character" = "creating-a-character/index.md" },
+    { Attributes = "attributes/index.md" },
+    { Luck = "luck/index.md" },
+    { Races = [
+        { Races = "races/index.md" },
+        { "Humans" = "races/humans.md" },
+        { "Dwarves" = "races/dwarves.md" },
+        { "Elves" = "races/elves.md" },
+        { "Halflings" = "races/halflings.md" },
+    ] },
+    { Classes = [{ Classes = "classes/index.md" }, { Artificer = "classes/artificer.md" }, { Barbarian = "classes/barbarian.md" }, { Bard = "classes/bard.md" }, { Cultist = "classes/cultist/index.md" }, { Fighter = "classes/fighter.md" }, { "Magic User" = "classes/magic-user.md" }, { Monk = "classes/monk.md" }, { Ranger = "classes/ranger.md" }, { Rogue = "classes/rogue.md" }] },
+    { "Unique Features" = "unique-features/index.md" },
+    { "Party Bonds" = "party-bonds.md" },
+    { Skills = "skills/index.md" },
+    { Equipment = [{ Equipment = "equipment/index.md" }, { Weapons = "equipment/weapons.md" }, { "Armour & Armour Class" = "equipment/armour-armour-class.md" }] },
+    { "Doing Things" = "doing-things/index.md" },
+    { Combat = [{ Combat = "combat/index.md" }, { Move = "combat/move.md" }, { Action = "combat/action.md" }, { "Martial Exploits" = "combat/martial-exploits.md" }, { "Fighting Styles" = "combat/fighting-styles.md" }, { "Miscellaneous Factors" = "combat/miscellaneous-factors.md" }] },
+    { "Injuries & Healing" = "injuries-healing/index.md" },
+    { Magic = [{ Magic = "magic/index.md" }, { "Spell Descriptions" = [{"Spell Descriptions" = "magic/spell-descriptions/index.md"}, {Invisibility = "magic/spell-descriptions/invisibility.md"}, {"Circle of Protection 10' radius" = "magic/spell-descriptions/circle-of-protection-10-radius.md"}, {Blindness = "magic/spell-descriptions/blindness.md"}, {Shield = "magic/spell-descriptions/shield.md"}, {"Anti-Life Field" = "magic/spell-descriptions/anti-life-field.md"}, {Fear = "magic/spell-descriptions/fear.md"}, {"Stone Shape" = "magic/spell-descriptions/stone-shape.md"}, {"Contact Other Plane" = "magic/spell-descriptions/contact-other-plane.md"}, {"Speak with Animals" = "magic/spell-descriptions/speak-with-animals.md"}, {Etherealness = "magic/spell-descriptions/etherealness.md"}, {Banishment = "magic/spell-descriptions/banishment.md"}, {"Cone of Cold" = "magic/spell-descriptions/cone-of-cold.md"}, {"Blade Barrier" = "magic/spell-descriptions/blade-barrier.md"}, {"Hold Person" = "magic/spell-descriptions/hold-person.md"}, {"Monster Summoning I" = "magic/spell-descriptions/monster-summoning-i.md"}, {"Monster Summoning II" = "magic/spell-descriptions/monster-summoning-ii.md"}, {"Monster Summoning III" = "magic/spell-descriptions/monster-summoning-iii.md"}, {"Monster Summoning IV" = "magic/spell-descriptions/monster-summoning-iv.md"}, {Geas = "magic/spell-descriptions/geas.md"}, {"Lightning Bolt" = "magic/spell-descriptions/lightning-bolt.md"}, {"Invisibility 10' radius" = "magic/spell-descriptions/invisibility-10-radius.md"}, {"Neutralize Poison" = "magic/spell-descriptions/neutralize-poison.md"}, {Cloudkill = "magic/spell-descriptions/cloudkill.md"}, {"Control Weather" = "magic/spell-descriptions/control-weather.md"}, {"Gaseous Form" = "magic/spell-descriptions/gaseous-form.md"}, {"Creeping Doom" = "magic/spell-descriptions/creeping-doom.md"}, {"Hold Monster" = "magic/spell-descriptions/hold-monster.md"}, {"Heat Metal" = "magic/spell-descriptions/heat-metal.md"}, {"Modify Memory" = "magic/spell-descriptions/modify-memory.md"}, {Stoneskin = "magic/spell-descriptions/stoneskin.md"}, {"Protection from Energy" = "magic/spell-descriptions/protection-from-energy.md"}, {"Dimension Door" = "magic/spell-descriptions/dimension-door.md"}, {"Object Reading" = "magic/spell-descriptions/object-reading.md"}, {Reflection = "magic/spell-descriptions/reflection.md"}, {"Continual Light" = "magic/spell-descriptions/continual-light.md"}, {Feeblemind = "magic/spell-descriptions/feeblemind.md"}, {"Irresistible Dance" = "magic/spell-descriptions/irresistible-dance.md"}, {"Stinking Cloud" = "magic/spell-descriptions/stinking-cloud.md"}, {Featherfall = "magic/spell-descriptions/featherfall.md"}, {"Flesh to Stone" = "magic/spell-descriptions/flesh-to-stone.md"}, {"Finger of Death" = "magic/spell-descriptions/finger-of-death.md"}, {"Forbidden Wish" = "magic/spell-descriptions/forbidden-wish.md"}, {"Cure Light Wounds" = "magic/spell-descriptions/cure-light-wounds.md"}, {"Charm Person" = "magic/spell-descriptions/charm-person.md"}, {Fireball = "magic/spell-descriptions/fireball.md"}, {Frighten = "magic/spell-descriptions/frighten.md"}, {"Silence 15' radius" = "magic/spell-descriptions/silence-15-radius.md"}, {"Unseen Hand" = "magic/spell-descriptions/unseen-hand.md"}, {"Wall of Thorns" = "magic/spell-descriptions/wall-of-thorns.md"}, {"Speak with Plants" = "magic/spell-descriptions/speak-with-plants.md"}, {Haste = "magic/spell-descriptions/haste.md"}, {"Magic Jar" = "magic/spell-descriptions/magic-jar.md"}, {Slow = "magic/spell-descriptions/slow.md"}, {Telekinesis = "magic/spell-descriptions/telekinesis.md"}, {"Detect Hidden" = "magic/spell-descriptions/detect-hidden.md"}, {"Animate Dead" = "magic/spell-descriptions/animate-dead.md"}, {"Animate Object" = "magic/spell-descriptions/animate-object.md"}, {Sleep = "magic/spell-descriptions/sleep.md"}, {"Magic Missile" = "magic/spell-descriptions/magic-missile.md"}, {Light = "magic/spell-descriptions/light.md"}, {Confusion = "magic/spell-descriptions/confusion.md"}, {"Disguise Self" = "magic/spell-descriptions/disguise-self.md"}, {"Hallucinatory Terrain" = "magic/spell-descriptions/hallucinatory-terrain.md"}, {"Move Earth" = "magic/spell-descriptions/move-earth.md"}, {"Transmute Rock to Mud" = "magic/spell-descriptions/transmute-rock-to-mud.md"}, {"Charm Monster" = "magic/spell-descriptions/charm-monster.md"}, {"Greater Invisibility" = "magic/spell-descriptions/greater-invisibility.md"}, {"Magic Resistance" = "magic/spell-descriptions/magic-resistance.md"}, {Darkvision = "magic/spell-descriptions/darkvision.md"}, {"Wizard Lock" = "magic/spell-descriptions/wizard-lock.md"}, {"Cure Serious Wounds" = "magic/spell-descriptions/cure-serious-wounds.md"}, {"Water Breathing" = "magic/spell-descriptions/water-breathing.md"}, {Passwall = "magic/spell-descriptions/passwall.md"}, {"Detect Magic" = "magic/spell-descriptions/detect-magic.md"}, {"Darkness 15' Radius" = "magic/spell-descriptions/darkness-15-radius.md"}, {"Cure Malady" = "magic/spell-descriptions/cure-malady.md"}, {"Rock Storm" = "magic/spell-descriptions/rock-storm.md"}, {"Invisible Stalker" = "magic/spell-descriptions/invisible-stalker.md"}, {Restoration = "magic/spell-descriptions/restoration.md"}, {"Speak with Dead" = "magic/spell-descriptions/speak-with-dead.md"}, {Fly = "magic/spell-descriptions/fly.md"}, {"Legend Lore" = "magic/spell-descriptions/legend-lore.md"}, {"Ritual Magic" = "magic/spell-descriptions/ritual-magic.md"}, {"Dispel Magic" = "magic/spell-descriptions/dispel-magic.md"}, {"Silent Image" = "magic/spell-descriptions/silent-image.md"}, {"Hideous Laughter" = "magic/spell-descriptions/hideous-laughter.md"}, {Clairvoyance = "magic/spell-descriptions/clairvoyance.md"}, {"Cure Minor Injury" = "magic/spell-descriptions/cure-minor-injury.md"}, {Suggestion = "magic/spell-descriptions/suggestion.md"}, {"Mirror Image" = "magic/spell-descriptions/mirror-image.md"}, {"Comprehend Languages" = "magic/spell-descriptions/comprehend-languages.md"}, {"Hypnotic Pattern" = "magic/spell-descriptions/hypnotic-pattern.md"}, {Regenerate = "magic/spell-descriptions/regenerate.md"}, {"Chain Lightning" = "magic/spell-descriptions/chain-lightning.md"}, {Web = "magic/spell-descriptions/web.md"}, {Telepathy = "magic/spell-descriptions/telepathy.md"}, {Polymorph = "magic/spell-descriptions/polymorph.md"}, {"Conjure Elemental" = "magic/spell-descriptions/conjure-elemental.md"}, {Knock = "magic/spell-descriptions/knock.md"}, {Strength = "magic/spell-descriptions/strength.md"}, {"Bolster Attribute" = "magic/spell-descriptions/bolster-attribute.md"}, {Thunderwave = "magic/spell-descriptions/thunderwave.md"}, {"Wall of Iron" = "magic/spell-descriptions/wall-of-iron.md"}, {"Magic Mouth" = "magic/spell-descriptions/magic-mouth.md"}, {"Protection from Normal Missiles" = "magic/spell-descriptions/protection-from-normal-missiles.md"}, {Earthquake = "magic/spell-descriptions/earthquake.md"}, {"Plant Growth" = "magic/spell-descriptions/plant-growth.md"}, {"Freedom of Movement" = "magic/spell-descriptions/freedom-of-movement.md"}, {"Wall of Fire" = "magic/spell-descriptions/wall-of-fire.md"}, {Disintegrate = "magic/spell-descriptions/disintegrate.md"}, {"Phantasmal Force" = "magic/spell-descriptions/phantasmal-force.md"}, {"Wall of Ice" = "magic/spell-descriptions/wall-of-ice.md"}, {"Circle of Protection" = "magic/spell-descriptions/circle-of-protection.md"}, {"Mass Suggestion" = "magic/spell-descriptions/mass-suggestion.md"}, {Locate = "magic/spell-descriptions/locate.md"}, {Levitate = "magic/spell-descriptions/levitate.md"}, {Witchblade = "magic/spell-descriptions/witchblade.md"}, {"True Seeing" = "magic/spell-descriptions/true-seeing.md"}, {"Death Spell" = "magic/spell-descriptions/death-spell.md"}, {"Fog Cloud" = "magic/spell-descriptions/fog-cloud.md"}] }] },
+    { Advancement = "advancement/index.md" },
+    { "GM Tools" = [{ "GM Tools" = "gm-tools/index.md" }, {"Blackpowder & Ships" = "gm-tools/blackpowder-ships.md"}, {Disease = "gm-tools/disease.md"}, {"Dungeon Room Generator" = "gm-tools/dungeon-room-generator.md"}, {Exploration = "gm-tools/exploration.md"}, {"Random Encounters" = "gm-tools/random-encounters.md"}, {Hirelings = "gm-tools/hirelings.md"}, {"Mass Battle" = "gm-tools/mass-battle.md"}, {Madness = "gm-tools/madness.md"}, {Monsters = [{Monsters = "gm-tools/monsters/index.md"}, {"Animals (Ordinary)" = [{"Animals (Ordinary)" = "gm-tools/monsters/animals-ordinary/index.md"}, {Bat = "gm-tools/monsters/animals-ordinary/bat.md"}, {Bear = "gm-tools/monsters/animals-ordinary/bear.md"}, {Boar = "gm-tools/monsters/animals-ordinary/boar.md"}, {Cat = "gm-tools/monsters/animals-ordinary/cat.md"}, {Dog = "gm-tools/monsters/animals-ordinary/dog.md"}, {Falcon = "gm-tools/monsters/animals-ordinary/falcon.md"}, {Horse = "gm-tools/monsters/animals-ordinary/horse.md"}, {"Rat, Swarm" = "gm-tools/monsters/animals-ordinary/rat-swarm.md"}, {Snake = "gm-tools/monsters/animals-ordinary/snake.md"}, {Tiger = "gm-tools/monsters/animals-ordinary/tiger.md"}, {Wolf = "gm-tools/monsters/animals-ordinary/wolf.md"}]}, {"Aberrant Terrors" = [{"Aberrant Terrors" = "gm-tools/monsters/aberrant-terrors-2/index.md"}, {"Aberrant Terror, Eye" = "gm-tools/monsters/aberrant-terrors-2/aberrant-terror-eye.md"}, {"Aberrant Terror, Gibbering" = "gm-tools/monsters/aberrant-terrors-2/aberrant-terror-gibbering.md"}, {"Aberrant Terror, Maelheim" = "gm-tools/monsters/aberrant-terrors-2/aberrant-terror-maelheim.md"}]}, {"Ant, Giant (Queen)" = "gm-tools/monsters/ant-giant-queen.md"}, {"Ant, Giant (Soldier)" = "gm-tools/monsters/ant-giant-soldier.md"}, {"Ant, Giant (Worker)" = "gm-tools/monsters/ant-giant-worker.md"}, {Banshee = "gm-tools/monsters/banshee.md"}, {Basilisk = "gm-tools/monsters/basilisk.md"}, {"Bat, Dire" = "gm-tools/monsters/bat-dire.md"}, {"Beetle, Fire" = "gm-tools/monsters/beetle-fire.md"}, {"Black Pudding" = "gm-tools/monsters/black-pudding.md"}, {Bulette = "gm-tools/monsters/bulette.md"}, {Centaur = "gm-tools/monsters/centaur.md"}, {"Centipede, Giant" = "gm-tools/monsters/centipede-giant.md"}, {Chuul = "gm-tools/monsters/chuul.md"}, {Cockatrice = "gm-tools/monsters/cockatrice.md"}, {"Crocodile, Giant" = "gm-tools/monsters/crocodile-giant.md"}, {Cyclops = "gm-tools/monsters/cyclops.md"}, {"Demons and Devils" = [{"Demons and Devils" = "gm-tools/monsters/demons-and-devils/index.md"}, {"Demon, Balor" = "gm-tools/monsters/demons-and-devils/demon-balor.md"}, {"Demon, Hell Hound" = "gm-tools/monsters/demons-and-devils/demon-hell-hound.md"}, {"Demon, Imp" = "gm-tools/monsters/demons-and-devils/demon-imp.md"}, {"Demon, Lemure" = "gm-tools/monsters/demons-and-devils/demon-lemure.md"}, {"Demon, Manipede" = "gm-tools/monsters/demons-and-devils/demon-manipede.md"}]}, {Doppelganger = "gm-tools/monsters/doppelganger.md"}, {Dragon = "gm-tools/monsters/dragon.md"}, {Dwarf = "gm-tools/monsters/dwarf.md"}, {"Eagle, Giant" = "gm-tools/monsters/eagle-giant.md"}, {Elementals = [{Elementals = "gm-tools/monsters/elementals/index.md"}, {"Elemental, Air" = "gm-tools/monsters/elementals/elemental-air.md"}, {"Elemental, Earth" = "gm-tools/monsters/elementals/elemental-earth.md"}, {"Elemental, Fire" = "gm-tools/monsters/elementals/elemental-fire.md"}, {"Elemental, Water" = "gm-tools/monsters/elementals/elemental-water.md"}]}, {Elf = "gm-tools/monsters/elf.md"}, {Ettin = "gm-tools/monsters/ettin.md"}, {Gargoyle = "gm-tools/monsters/gargoyle.md"}, {"Gelatinous Cube" = "gm-tools/monsters/gelatinous-cube.md"}, {Genie = "gm-tools/monsters/genie.md"}, {Ghost = "gm-tools/monsters/ghost.md"}, {Ghoul = "gm-tools/monsters/ghoul.md"}, {Giants = [{Giants = "gm-tools/monsters/giants/index.md"}, {"Giant, Frost" = "gm-tools/monsters/giants/giant-frost.md"}, {"Giant, Hill" = "gm-tools/monsters/giants/giant-hill.md"}, {"Giant, Storm" = "gm-tools/monsters/giants/giant-storm.md"}]}, {Golems = [{Golems = "gm-tools/monsters/golems/index.md"}, {"Golem, Flesh" = "gm-tools/monsters/golems/golem-flesh.md"}, {"Golem, Iron" = "gm-tools/monsters/golems/golem-iron.md"}, {"Golem, Stone" = "gm-tools/monsters/golems/golem-stone.md"}]}, {Goblin = "gm-tools/monsters/goblin.md"}, {"Green Slime" = "gm-tools/monsters/green-slime.md"}, {"Grey Ooze" = "gm-tools/monsters/grey-ooze.md"}, {Griffon = "gm-tools/monsters/griffon.md"}, {Hag = "gm-tools/monsters/hag.md"}, {"Hammer Snail" = "gm-tools/monsters/hammer-snail.md"}, {Harpy = "gm-tools/monsters/harpy.md"}, {Humans = [{Humans = "gm-tools/monsters/humans/index.md"}, {"Human (Adventurer)" = "gm-tools/monsters/humans/human-adventurer.md"}, {"Human (Archer)" = "gm-tools/monsters/humans/human-archer.md"}, {"Human (Bandit/Cultist)" = "gm-tools/monsters/humans/human-bandit-cultist.md"}, {"Human (Berserker)" = "gm-tools/monsters/humans/human-berserker.md"}, {"Human (Cavalry)" = "gm-tools/monsters/humans/human-cavalry.md"}, {"Human (Champion)" = "gm-tools/monsters/humans/human-champion.md"}, {"Human (Guardsmen, Soldier)" = "gm-tools/monsters/humans/human-guardsmen-soldier.md"}, {"Human (Hireling: Mercenary)" = "gm-tools/monsters/humans/human-hireling-mercenary.md"}, {"Human (Hireling: Non-Combatant)" = "gm-tools/monsters/humans/human-hireling-non-combatant.md"}, {"Human (Militia)" = "gm-tools/monsters/humans/human-militia.md"}, {"Human (Mob)" = "gm-tools/monsters/humans/human-mob.md"}, {"Human (Scout)" = "gm-tools/monsters/humans/human-scout.md"}, {"Human (Sorcerer)" = "gm-tools/monsters/humans/human-sorcerer.md"}]}, {Hydra = "gm-tools/monsters/hydra.md"}, {"Invisible Stalker" = "gm-tools/monsters/invisible-stalker.md"}, {Kobold = "gm-tools/monsters/kobold.md"}, {"Leech, Projectile" = "gm-tools/monsters/leech-projectile.md"}, {Lich = "gm-tools/monsters/lich.md"}, {"Lizard, Giant" = "gm-tools/monsters/lizard-giant.md"}, {Lycanthropes = [{Lycanthropes = "gm-tools/monsters/lycanthropes/index.md"}, {"Lycanthrope, Wererat" = "gm-tools/monsters/lycanthropes/lycanthrope-wererat.md"}, {"Lycanthrope, Werewolf" = "gm-tools/monsters/lycanthropes/lycanthrope-werewolf.md"}]}, {Mammoth = "gm-tools/monsters/mammoth.md"}, {"Man Eating Monkey" = "gm-tools/monsters/man-eating-monkey.md"}, {Manticore = "gm-tools/monsters/manticore.md"}, {Medusa = "gm-tools/monsters/medusa.md"}, {Merrow = "gm-tools/monsters/merrow.md"}, {Minotaur = "gm-tools/monsters/minotaur.md"}, {Mummy = "gm-tools/monsters/mummy.md"}, {"Ochre Jelly" = "gm-tools/monsters/ochre-jelly.md"}, {"Octopus, Giant" = "gm-tools/monsters/octopus-giant.md"}, {Ogre = "gm-tools/monsters/ogre.md"}, {"Ogre Mage" = "gm-tools/monsters/ogre-mage.md"}, {Owlbear = "gm-tools/monsters/owlbear.md"}, {"Purple Worm" = "gm-tools/monsters/purple-worm.md"}, {"Rat, Dire" = "gm-tools/monsters/rat-dire.md"}, {"Rat, Giant" = "gm-tools/monsters/rat-giant.md"}, {Roc = "gm-tools/monsters/roc.md"}, {"Scorpion, Giant" = "gm-tools/monsters/scorpion-giant.md"}, {"Serpent, Giant" = "gm-tools/monsters/serpent-giant.md"}, {Serpentmen = [{Serpentmen = "gm-tools/monsters/serpentmen/index.md"}, {"Hraarsk (Humanoid)" = "gm-tools/monsters/serpentmen/hraarsk-humanoid.md"}, {"Razkart (Noble)" = "gm-tools/monsters/serpentmen/razkart-noble.md"}, {"Ssurloc (Hybrid)" = "gm-tools/monsters/serpentmen/ssurloc-hybrid.md"}]}, {Shade = "gm-tools/monsters/shade.md"}, {"Shark, Giant" = "gm-tools/monsters/shark-giant.md"}, {Skeleton = "gm-tools/monsters/skeleton.md"}, {"Skeleton, Ogre" = "gm-tools/monsters/skeleton-ogre.md"}, {"Skorn (Beastmen)" = "gm-tools/monsters/skorn-beastmen.md"}, {"Slop Gorger" = "gm-tools/monsters/slop-gorger.md"}, {Spectre = "gm-tools/monsters/spectre.md"}, {"Spider, Giant" = "gm-tools/monsters/spider-giant.md"}, {"Spider, Veil" = "gm-tools/monsters/spider-veil.md"}, {Sprite = "gm-tools/monsters/sprite.md"}, {Stirge = "gm-tools/monsters/stirge.md"}, {T-Rex = "gm-tools/monsters/t-rex.md"}, {"Tentacle Spawn" = "gm-tools/monsters/tentacle-spawn.md"}, {"Tiger, Sabretooth" = "gm-tools/monsters/tiger-sabretooth.md"}, {"Toad, Claw" = "gm-tools/monsters/toad-claw.md"}, {"Treant, Bloodroot" = "gm-tools/monsters/treant-bloodroot.md"}, {Troll = "gm-tools/monsters/troll.md"}, {Urgot = "gm-tools/monsters/urgot.md"}, {Vampire = "gm-tools/monsters/vampire.md"}, {"Wasp, Giant" = "gm-tools/monsters/wasp-giant.md"}, {"Wight, Barrow" = "gm-tools/monsters/wight-barrow.md"}, {"Worm, Plague" = "gm-tools/monsters/worm-plague.md"}, {"Will o' Wisp" = "gm-tools/monsters/will-o-wisp.md"}, {"Wolf, Dire" = "gm-tools/monsters/wolf-dire.md"}, {Wraith = "gm-tools/monsters/wraith.md"}, {Wyvern = "gm-tools/monsters/wyvern.md"}, {Xornling = "gm-tools/monsters/xornling.md"}, {"Yellow Mould" = "gm-tools/monsters/yellow-mould.md"}, {Zombie = "gm-tools/monsters/zombie.md"}]}, {Morale = "gm-tools/morale.md"}, {"NPC Reactions" = "gm-tools/npc-reactions.md"}, {"Rival Adventurers" = "gm-tools/rival-adventurers.md"}, {"Tavern Brawls" = "gm-tools/tavern-brawls.md"}, {Traps = "gm-tools/traps.md"}, {Treasure = "gm-tools/treasure.md"}] },
+    { "Appendix A: Spell Name Converter" = "appendix-a-spell-name-converter.md" },
+    { "Appendix B: NPC Generator" = "appendix-b-npc-generator.md" },
+    { "Appendix C: Unit Combat Cheat Sheet" = "appendix-c-unit-combat-cheat-sheet.md" },
+]
+site_url = "https://lb9203.github.io/lfg-wiki-unofficial/"
+site_name = "Unofficial Low Fantasy Gaming Wiki"
+site_description = "An unofficial indexed wiki of Low Fantasy Gaming, with all non-OGL content removed."
+site_author = "lb9203"
+
+repo_url = "https://github.com/lb9203/lfg-wiki-unofficial"
+repo_name = "lb9203/lfg-wiki-unofficial"
+# edit_uri = "edit/main/docs/"
+
+# extra_css = ["stylesheets/extra.css"]
+# extra_javascript = ["javascripts/extra.js"]
+extra_css = ["stylesheets/extra.css"]
+
+[project.theme]
+# variant = "classic"
+# custom_dir = "overrides"
+# favicon = "images/favicon.png"
+language = "en"
+features = [
+    "announce.dismiss",
+    # "content.action.edit",
+    # "content.action.view",
+    "content.code.annotate",
+    "content.code.copy",
+    "content.code.select",
+    "content.footnote.tooltips",
+    "content.tabs.link",
+    "content.tooltips",
+    # "header.autohide",
+    # "navigation.expand",
+    "navigation.footer",
+    "navigation.indexes",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    # "navigation.instant.progress",
+    "navigation.path",
+    # "navigation.prune",
+    "navigation.sections",
+    # "navigation.tabs",
+    # "navigation.tabs.sticky",
+    "navigation.top",
+    "navigation.tracking",
+    "search.highlight",
+    # "toc.follow",
+    # "toc.integrate",
+]
+
+# logo = "assets/logo.png"
+
+# [project.theme.icon]
+# logo = "lucide/smile"
+
+# [project.theme.font]
+# text = "Inter"
+# code = "Jetbrains Mono"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+# [[project.extra.social]]
+# icon = "fontawesome/brands/github"
+# link = "https://github.com/user/repo"
+
+# [[project.extra.social]]
+# icon = "fontawesome/brands/mastodon"
+# link = "https://fosstodon.org/@user"
+
+[project.markdown_extensions]
+abbr = { }
+admonition = { }
+attr_list = { }
+def_list = { }
+footnotes = { }
+md_in_html = { }
+toc = {
+    permalink = true
+}
+pymdownx.arithmatex = {
+    generic = true
+}
+pymdownx.betterem = { }
+pymdownx.caret = { }
+pymdownx.details = { }
+pymdownx.emoji = {
+    emoji_generator = "zensical.extensions.emoji.to_svg",
+    emoji_index = "zensical.extensions.emoji.twemoji",
+}
+pymdownx.highlight = {
+    anchor_linenums = true,
+    line_spans = "__span",
+    pygments_lang_class = true,
+}
+pymdownx.inlinehilite = { }
+pymdownx.keys = { }
+pymdownx.magiclink = { }
+pymdownx.mark = { }
+pymdownx.smartsymbols = { }
+# pymdownx.snippets = {
+#   base_path = "includes",
+# }
+pymdownx.superfences = {
+    custom_fences = [
+        {
+            name = "mermaid",
+            class = "mermaid",
+            format = "pymdownx.superfences.fence_code_format",
+        },
+    ],
+}
+pymdownx.tabbed = {
+    alternate_style = true,
+    combine_header_slug = true
+}
+pymdownx.tasklist = {
+    custom_checkbox = true
+}
+pymdownx.tilde = { }
