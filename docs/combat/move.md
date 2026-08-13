@@ -71,20 +71,17 @@ Characters sometimes get themselves into chase situations that aren't much fun u
 <td>1</td>
 <td>
 <b>Large Crowd</b><br/>
-          A large group of creatures impedes the progress of the characters in a non-violent manner (eg: <i>a funeral procession, wilder beast herd, dwarven mining crew, cloud of curious young air elementals</i>). One or more characters may (amongst other things) attempt to persuade or intimidate the group to assist them (GM discretion). If the crowd is not managed or bypassed, the opposing side rolls to widen or close the gap.
-        </td>
+A large group of creatures impedes the progress of the characters in a non-violent manner (eg: <i>a funeral procession, wilder beast herd, dwarven mining crew, cloud of curious young air elementals</i>). One or more characters may (amongst other things) attempt to persuade or intimidate the group to assist them (GM discretion). If the crowd is not managed or bypassed, the opposing side rolls to widen or close the gap.
+</td>
 </tr>
 <tr>
 <td>2</td>
 <td>
 <b>Dangerous Hazard</b><br/>
-          The GM improvises a physical threat of some kind (eg: <i>a street riot, poisonous vines, carnivorous plant, underground slime, swarm of giant insects</i>). 1d4 characters must make a <i>Luck</i> (Dex) save or suffer 2d6+level damage.
-        </td>
+The GM improvises a physical threat of some kind (eg: <i>a street riot, poisonous vines, carnivorous plant, underground slime, swarm of giant insects</i>). 1d4 characters must make a <i>Luck</i> (Dex) save or suffer 2d6+level damage.
+</td>
 </tr>
 </tbody>
-</table>
-
-<table border="1">
 <tr>
 <td>3</td>
 <td>
@@ -147,9 +144,6 @@ Characters sometimes get themselves into chase situations that aren't much fun u
 <p><b>Hidey Hole</b><br/>The quarry locate a viable hiding place and may make a group Dex (Stealth) check opposed by the chasers' group Perc (Detection) check. The GM might impose modifiers on the checks depending on</p>
 </td>
 </tr>
-</table>
-
-<table border="1">
 <tr>
 <td></td>
 <td>distances and other circumstances. If the quarry succeed they escape. If they fail they are caught. Either way the chase ends.</td>

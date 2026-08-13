@@ -24,14 +24,11 @@ Monks are masters of unarmed combat, causing 1d6 damage (plus Str modifier) with
 
 Monks employ secret and highly effective fighting techniques, passed down from master to pupil over the centuries. At 1<sup>st</sup> level, the monk knows a number of techniques equal to his Will modifier. Each level thereafter the monk learns one additional technique, and if desired, may substitute one known technique for another.
 
-You begin an adventure with one use of this ability per level. You may regain expended uses by taking short or long rests (p.81). Each time you use this ability, choose one of your known techniques to
-
-apply. You may use this ability as part of your normal action. If a technique requires a Will check, you may use your *Reroll Pool*.
+You begin an adventure with one use of this ability per level. You may regain expended uses by taking short or long rests (p.81). Each time you use this ability, choose one of your known techniques to apply. You may use this ability as part of your normal action. If a technique requires a Will check, you may use your *Reroll Pool*.
 
 - *Acrobatics (Formless Water)*: Until the start of his next turn, the monk gains a bonus equal to twice his Will modifier to AC, *Luck* (Dex) saves and defensive Dex checks. This ability may be triggered after being hit or otherwise targeted by an opponent (potentially turning a hit into a miss, etc).
 
 - *Channel Spirit (Unchain the Dragon)*: The monk channels her spirit into her unarmed strikes, causing critical hits on natural 19-20 attack rolls, and bypassing immunity or suppressing regeneration the target has vs non-magical weapons. This effect lasts a number of rounds equal to the monk's Will modifier.
-
 - *Deflect Projectile (Moon shields Sun)*: When damaged by a non-magical ranged attack (dagger, arrow, boulder, etc), this ability may be triggered to negate it.
 - *Strength of One*: The monk increases her Str to 19 for one action.
 - *Impossible Leap (Heaven's Leap)*: The monk may jump up to 30 ft in any direction. Some GM's might require a staff, creature or terrain to launch from.
@@ -59,10 +56,7 @@ At 4<sup>th</sup> and 8<sup>th</sup> level, you gain one new skill (the skill ne
 At 5<sup>th</sup> level, you unlock glimmers of enlightenment, invigorating your physical, mental and spiritual being. You gain the following benefits:
 
 - Open Hand Versatility applies on a natural 19-20 attack roll,
-- Once per adventure, after a period of meditation and contemplation, you may
-
-spend a *Reroll* die to gain a useful insight. Bearing in mind your party goals, the GM will remind you of an important piece of information, spotlight an overlooked clue or connection, or provide some other inspiration, and
-
+- Once per adventure, after a period of meditation and contemplation, you may spend a *Reroll* die to gain a useful insight. Bearing in mind your party goals, the GM will remind you of an important piece of information, spotlight an overlooked clue or connection, or provide some other inspiration, and
 - Once per adventure, during your turn you may spend a *Reroll* die to end a magical effect you are subject to (if others are subject to the same effect, it does not end for them).
 
 ## Counter Attack (7th level)
