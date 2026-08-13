@@ -10,6 +10,6 @@
 
 Tentacle spawn are oily skinned humanoids with octopus like heads from another planet or dimension. Their motives are inscrutable but they are intelligent and exist on a steady diet of brains, preferably human. They are subterranean and become severely disorientated if exposed to wide open spaces. Spawns attack by attempting to burrow their tentacles into their opponent's skull and brain. If both Tentacle attacks hit, the target must make a *Luck (Con)* save or die on the monster's next turn, unless the two are somehow separated.
 
-Tentacle spawn may spend an action to project a mental blast of abject horror in a 60 ft cone, 20 ft wide at the base, causing 1d4 Int loss and imposing a serious madness (a *Luck (Will)* save resists). The Mental Blast attack has a 30% chance of recharging at the start of the tentacle spawn's turn.---
+Tentacle spawn may spend an action to project a mental blast of abject horror in a 60 ft cone, 20 ft wide at the base, causing 1d4 Int loss and imposing a serious madness (a *Luck (Will)* save resists). The Mental Blast attack has a 30% chance of recharging at the start of the tentacle spawn's turn.
 
 Tentacle spawn may spend an action to produce each of the following spell effects once per day: *Charm Person*, *Blindness*, *Charm Monster*, *Telekinesis* and *Telepathy*.

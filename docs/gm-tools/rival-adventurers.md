@@ -15,15 +15,6 @@ Below are tables for making quick, simplified NPC adventurers. Each combat, a ri
 </tr>
 </thead>
 <tbody>
-<tr>
-<th>CLASS &amp; STATS</th>
-<th>LEVEL</th>
-<th>AC</th>
-<th>HP</th>
-<th><i>LUCK</i></th>
-<th>CLASS ABILITIES (USES)</th>
-<th>WEAPON &amp; ARMOUR</th>
-</tr>
 <tr><td rowspan="4"><b>ARTIFICER</b><br/><br/>Int 15<br/>Dex 13<br/>Other 10</td><td>1,2,3</td><td>14</td><td>4, 8, 12</td><td>4, 5, 6</td><td><i>Hellfire Glass</i><br/><i>Flash Rig</i> (2)</td><td>Spear 1d6+1<br/>Chain shirt</td></tr>
 <tr><td>4,5,6</td><td>14</td><td>16, 20, 24</td><td>7, 8, 8</td><td><i>Fume Flask</i><br/><i>Mutagen</i> (3)</td><td>Hammer 1d8+1<br/>Scale shirt</td></tr>
 <tr><td>7,8,9</td><td>14</td><td>28, 32, 36</td><td>9, 9, 10</td><td><i>Corroding Spray</i><br/><i>Thunder Gauntlet</i> (4)</td><td>Black powder<br/>weapon 4d4<br/>Breastplate</td></tr>

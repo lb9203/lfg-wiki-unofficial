@@ -8,4 +8,4 @@
 **Luck:** 8<br>
 **Move:** 30 ft and may climb walls, ceilings, etc<br>
 
-The Queen is approximately 8 ft long and directs the hive colony. On an 18+ attack roll, the victim is crushed in her mandibles and suffers 3d6 damage each turn until freed (the victim may spend their action to make an opposed Str check to escape). The Queen's stinger carries a potent poison causing 1d4 Con loss (*Luck* (Con) save for half).---
+The Queen is approximately 8 ft long and directs the hive colony. On an 18+ attack roll, the victim is crushed in her mandibles and suffers 3d6 damage each turn until freed (the victim may spend their action to make an opposed Str check to escape). The Queen's stinger carries a potent poison causing 1d4 Con loss (*Luck* (Con) save for half).

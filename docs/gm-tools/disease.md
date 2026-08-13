@@ -18,9 +18,7 @@ A *Luck* (Con) save is permitted after each day of Str loss to throw off the dis
 
 ## (3) Bulging Bluevein
 
-The ferocious *Bulging Bluevein* causes blood vessels to burst in the patient's eyes, cheeks, and tongue, spreading like purple tendrils. After 1d6 hours, the patient loses 1 point of Cha and Int, and
-
-suffers a serious madness due to brain swelling. These effects last 1d4 months. An apothecary adept in skull bores might halve the duration.
+The ferocious *Bulging Bluevein* causes blood vessels to burst in the patient's eyes, cheeks, and tongue, spreading like purple tendrils. After 1d6 hours, the patient loses 1 point of Cha and Int, and suffers a serious madness due to brain swelling. These effects last 1d4 months. An apothecary adept in skull bores might halve the duration.
 
 ## (4) Slop Bowel
 
@@ -74,9 +72,7 @@ Flesh grubs are fat, filthy, two inch burrowing worms with wicked beaks, that fe
 
 Infested corpses tend to bloat as the fumes build, rendering them liable to explode (an Int (Apothecary) check might notice the tell tale “flesh grubs” odour).
 
-If disturbed, the corpse ruptures, showering the PC with the accursed bugs, which burrow straight for the heart. A *Luck* (Con) save is required to avoid death in 1d4 rounds. Fire or acid can kill the
-
-grubs, but requires an Int (Apothecary) check to apply correctly (2d4 damage, halved if the check is successful).
+If disturbed, the corpse ruptures, showering the PC with the accursed bugs, which burrow straight for the heart. A *Luck* (Con) save is required to avoid death in 1d4 rounds. Fire or acid can kill the grubs, but requires an Int (Apothecary) check to apply correctly (2d4 damage, halved if the check is successful).
 
 ### Throat Leeches
 

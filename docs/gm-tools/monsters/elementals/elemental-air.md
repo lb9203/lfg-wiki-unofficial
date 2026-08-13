@@ -8,4 +8,4 @@
 **Luck:** 8, 10, or 15<br>
 **Move:** 240 ft flying<br>
 
-Air Elementals batter their opponents with powerful winds or small objects or hurl them into nearby terrain. Even the smallest air elemental can lift a humanoid and carry them at half flying speed. 15 HD elementals may spend an action to suck the air from a 30 ft diameter room, forcing breathing creatures to make a *Luck* (Con) save or fall unconscious for 1d4 rounds (or suffocate, if the power is maintained)
+Air Elementals batter their opponents with powerful winds or small objects or hurl them into nearby terrain. Even the smallest air elemental can lift a humanoid and carry them at half flying speed. 15 HD elementals may spend an action to suck the air from a 30 ft diameter room, forcing breathing creatures to make a *Luck* (Con) save or fall unconscious for 1d4 rounds (or suffocate, if the power is maintained).

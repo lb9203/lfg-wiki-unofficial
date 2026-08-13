@@ -516,9 +516,7 @@ PCs on the west side of the wall are set upon by sentries or other residents wit
 
 #### Countermeasures
 
-PCs that study the edges of the rotating wall (about 10 ft either side of the axis) might notice hairline
-
-cracks (Perc (Detection) check at -2 penalty). Breaking through the middle of the 20 ft wall (opposite the scuff marks) reveals the rotating mechanism, which may be jammed (very noisy, will draw sentries). The PCs might also simply choose to be swept westward, keeping the party together, and foiling the primary purpose of the trap.
+PCs that study the edges of the rotating wall (about 10 ft either side of the axis) might notice hairline cracks (Perc (Detection) check at -2 penalty). Breaking through the middle of the 20 ft wall (opposite the scuff marks) reveals the rotating mechanism, which may be jammed (very noisy, will draw sentries). The PCs might also simply choose to be swept westward, keeping the party together, and foiling the primary purpose of the trap.
 
 #### Variants
 
@@ -576,9 +574,7 @@ Searching a wall requires 1d2 rounds and a *Perc* (Det) check at disadvantage. I
 
 If the hatch is located, it is locked (Dex (Traps & Locks) check at disadvantage to unlock, or it may be broken open with 2 x *Str* (Ath) checks at disadvantage (using a crowbar or other lever reduces the penalty to -2 instead).
 
-Back in the hallway above, after the trap is sprung, the reinforced trapdoor closes and locks tight. Breaking the door requires 2 x *Str* (Ath) great successes, or 50 points of damage (only axes and
-
-hammers do full damage, other weapons do half or no damage, GM discretion).
+Back in the hallway above, after the trap is sprung, the reinforced trapdoor closes and locks tight. Breaking the door requires 2 x *Str* (Ath) great successes, or 50 points of damage (only axes and hammers do full damage, other weapons do half or no damage, GM discretion).
 
 If the trapdoor is opened, attempting to free climb the greased chute causes the PC to be whisked into the drowning chamber (save as above). However a PC may be safely lowered down with a rope. It takes two rounds to descend to the bottom with a light source intact. In the cramped tube, the hatch may be opened with a standard *Dex* (Traps & Locks) check, or a *Str* (Ath) check at disadvantage. If opened, light filters into the drowning chamber, guiding any trapped PCs to safety.
 
@@ -714,9 +710,7 @@ If the floor swings, a *Luck* (Dex) save allows a PC to dig a dagger, axe spike 
 
 PCs falling into the pit have a 50% chance of dropping whatever they are holding, including torches and lanterns. Torches have a 50% chance of extinguishing themselves and lanterns have a 50% chance of shattering, causing a small fire (no damage, simply a hazard). The floor has a small amount of give to it (it is weighted, see below).
 
-After the PCs right themselves, a mechanical clicking can be heard (Perc (Det) check). Along the walls of the pit are a series of small 1 inch holes, approximately 2 ft from the ground. The round after the trap is triggered, oil gushes out of the holes, spraying over the legs of the characters and rising until the oil is 1 ft deep (takes 1 round
-
-to reach this level). The start of the round after the oil is deployed, a chute opens in the ceiling (hidden by the etchings), and something can be heard tumbling down... by the end of that round, an unlit torch drops out (by luck or poor maintenance, the torch didn't light).
+After the PCs right themselves, a mechanical clicking can be heard (Perc (Det) check). Along the walls of the pit are a series of small 1 inch holes, approximately 2 ft from the ground. The round after the trap is triggered, oil gushes out of the holes, spraying over the legs of the characters and rising until the oil is 1 ft deep (takes 1 round to reach this level). The start of the round after the oil is deployed, a chute opens in the ceiling (hidden by the etchings), and something can be heard tumbling down... by the end of that round, an unlit torch drops out (by luck or poor maintenance, the torch didn't light).
 
 Exiting the pit without pitons is difficult. Grappling hooks thrown over the lip have nothing to drag on and fall back down. PCs can however stand on each other's shoulder to form a human tower. The oil covered floor makes this a slippery affair, but PCs may use the wall to steady themselves. A Dex (Acro) check at a -2 penalty is required for the first person climbing up. The second person must also make a check but requires a great success.
 
@@ -746,9 +740,7 @@ This 15 ft tall, 40 ft diameter chamber, has a floor set 2 ft lower than the ent
 
 This entire chamber is protected by ancient and unpredictable magic. Part 1 of the trap is activated when a PC enters the room, whereupon the water begins to flow in a gentle swirling action, rotating around the central black runes.
 
-Part 2 of the trap is triggered when a PC crosses the halfway point of the room. At that time any adventurers in the water are shrunk to 12 inches tall, including all equipment (*Luck* (Con) save at a
-
--2 penalty resists). From this point, anyone entering the water while the trap is active must also save.
+Part 2 of the trap is triggered when a PC crosses the halfway point of the room. At that time any adventurers in the water are shrunk to 12 inches tall, including all equipment (*Luck* (Con) save at a -2 penalty resists). From this point, anyone entering the water while the trap is active must also save.
 
 Whether or not any PCs fail their save, the whirlpool increases to fearsome speed. Shrunk victims are dragged around the chamber, fighting to avoid drowning as they are drawn into the centre. After 2d4 rounds the victim is sucked into the black runes and teleported to a dimension of the GM's choosing (no save).
 
@@ -869,9 +861,7 @@ Handling the treasures from Areas 1 - 7 does not cause any issues until/if the P
 
 #### Countermeasures
 
-Knowing which archway is the true path is the bypass that allows safe passage, information
-
-that might be extracted from a resident enemy, gleaned from a note, cryptic research clues, etc.
+Knowing which archway is the true path is the bypass that allows safe passage, information that might be extracted from a resident enemy, gleaned from a note, cryptic research clues, etc.
 
 *Detect Magic* radiates transmutation magic from the fog, and abjuration magic from the items (except the serpent sword, which radiates teleportation magic). *Dispel Magic* on the archways or blades suspends their effects for  2d6  rounds.
 

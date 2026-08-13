@@ -52,7 +52,7 @@ Once per point of Int modifier per adventure, you may attempt to improvise a jur
 - Fusing agent to bind two inanimate objects together.
 - Sticky gloves to climb a sheer surface.
 
-The devices and mixtures are temporary and makeshift, lasting up to 1d4 hours at best. At the GM's option, highly improbable or complex items might also cost 1 point of *Luck*
+The devices and mixtures are temporary and makeshift, lasting up to 1d4 hours at best. At the GM's option, highly improbable or complex items might also cost 1 point of *Luck*.
 
 ## Unique Feature (3rd, 6th, 9th and 12th level)
 

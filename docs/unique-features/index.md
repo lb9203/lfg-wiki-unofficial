@@ -167,7 +167,7 @@ You gain a limited version of the Magic User *Spell Casting* ability. Learn two 
 
 You gain a limited version of the Bard *Inspire Greatness* ability. You begin an adventure with two uses of this ability.
 
-### IRON GRIT
+## Iron Grit
 
 <table border="1">
 
@@ -176,7 +176,7 @@ You gain a limited version of the Bard *Inspire Greatness* ability. You begin an
 <tr><td><b>3</b></td><td>Gain advantage on <i>All Dead</i> or <i>Mostly Dead</i> checks.</td></tr>
 </table>
 
-### KAROK ENVOY
+## Karok Envoy
 
 <table border="1">
 
@@ -185,7 +185,7 @@ You gain a limited version of the Bard *Inspire Greatness* ability. You begin an
 <tr><td><b>3</b></td><td>You own a servitor (dwarf slave from <i>Dol-Karok</i> in the <i>Midlands</i>), who accompanies you on your journeys, acting as a porter, guard, etc. Treat as a PC for death, injuries and healing. Roll twice on the <i>Hireling Advancement</i> table (p.162).</td></tr>
 </table>
 
-### MARKSMAN
+## Marksman
 
 <table border="1">
 
@@ -194,28 +194,24 @@ You gain a limited version of the Bard *Inspire Greatness* ability. You begin an
 <tr><td><b>3</b></td><td>Before the first round of a new combat (assuming you are not surprised), you may make a free ranged attack against one target.</td></tr>
 </table>
 
-### MONK TECHNIQUES (Crossclass)
+## Monk Techniques (Crossclass)
 
 <table border="1">
 
 <tr><td>You gain a limited version of the <i>Monk Techniques</i> ability. Learn two techniques. You begin an adventure with two uses of this ability. These abilities do not function if you are wearing medium or heavy armour.</td></tr>
 </table>
 
-### ORDO MALEFACTOS
+## Ordo Malefactos
 
 <table border="1">
 
 <tr><td><b>1</b></td><td>You automatically sense magic within 30 ft (per p.83), and gain a +2 bonus on all attribute checks and <i>Luck</i> saves vs magic.</td></tr>
 <tr><td><b>2</b></td><td>On a natural 1 <i>Luck</i> save vs magic, you may reflect the attack back at the source.</td></tr>
-</table>
-
-<table border="1">
-
 <tr><td><b>3</b></td><td>Once per adventure, you may attempt to dispel a magical effect (treat as <i>Dispel Magic</i>, but cannot be interrupted like normal spell casting).</td></tr>
 
 </table>
 
-### PACK TACTICS
+## Pack Tactics
 
 <table border="1">
 
@@ -224,7 +220,7 @@ You gain a limited version of the Bard *Inspire Greatness* ability. You begin an
 <tr><td><b>3</b></td><td>When you are reduced to zero hp, you may immediately grant a move or attack per (1) above, without spending a <i>Reroll</i> die (does not count as expending a use of this ability).</td></tr>
 </table>
 
-### PILFER POUCH
+## Pilfer Pouch
 
 <table border="1">
 <tr><td><b>1</b></td><td>Your hands have a mind of their own, regularly pocketing random objects and stowing them. You may spend an action to dig through your pouches to discover a forgotten item (roll d100). You begin an adventure with one use of this ability.</td></tr>

@@ -70,9 +70,7 @@ A magnifying glass can assist in locating miniscule clues, starting fires (magni
 
 ### *Peg Leg*
 
-A lower leg prosthetic to replace lost limbs beneath the knee. With practice the subject will be able to walk at the same speed as a normal humanoid. The user suffers disadvantage on movement based Dex checks, including *Luck*
-
-(Dex) saves. Advanced mechanical leg replacements are not unknown, with life like shapes and colours, hidden compartments, more complex movement range, etc.
+A lower leg prosthetic to replace lost limbs beneath the knee. With practice the subject will be able to walk at the same speed as a normal humanoid. The user suffers disadvantage on movement based Dex checks, including *Luck* (Dex) saves. Advanced mechanical leg replacements are not unknown, with life like shapes and colours, hidden compartments, more complex movement range, etc.
 
 ### *Poison* (1 dose)
 

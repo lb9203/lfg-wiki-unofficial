@@ -9,7 +9,7 @@ If (when) the party becomes involved in a tavern brawl, the GM might like to use
 
 
 
- An illustration of a man in a dark, patterned tunic standing in a tavern. He is looking thoughtful with his hand to his chin. Behind him is a dark wooden bar and a shield hanging on the wall. The scene is set in a dimly lit tavern with a warm, yellowish glow.---
+ An illustration of a man in a dark, patterned tunic standing in a tavern. He is looking thoughtful with his hand to his chin. Behind him is a dark wooden bar and a shield hanging on the wall. The scene is set in a dimly lit tavern with a warm, yellowish glow.
 
 <table border="1">
 <thead><tr><th>1d20</th><th>BAR BRAWL</th></tr></thead>

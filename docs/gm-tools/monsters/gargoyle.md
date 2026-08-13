@@ -8,4 +8,4 @@
 **Luck:** 6<br>
 **Move:** 30 ft or 60 ft when flying<br>
 
-Gargoyles are supernatural, winged beings, stony skinned with vacant eyes, resembling the rooftop statues of medieval cathedrals. A gargoyle can masquerade as a statue for years, patiently waiting for a passing victim, sustained by forbidden magic. They are inherently evil and malevolent creatures, existing primarily as conjured guardians and are immune to age and poison. A natural 1-2 attack roll against a Gargoyle requires the attacker to make a *Luck* save or their weapon shatters against the monster's rock hard hide.---
+Gargoyles are supernatural, winged beings, stony skinned with vacant eyes, resembling the rooftop statues of medieval cathedrals. A gargoyle can masquerade as a statue for years, patiently waiting for a passing victim, sustained by forbidden magic. They are inherently evil and malevolent creatures, existing primarily as conjured guardians and are immune to age and poison. A natural 1-2 attack roll against a Gargoyle requires the attacker to make a *Luck* save or their weapon shatters against the monster's rock hard hide.

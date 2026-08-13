@@ -8,4 +8,4 @@
 **Luck:** 6<br>
 **Move:** 90 ft flying<br>
 
-Giant eagles have 20 ft wingspans and hunt in mountains, forests and plains, generally preferring animal prey. In times of scarcity, or when feeding chicks, they are not above hunting humans, making opportunistic dives against lone explorers or small groups. If the target is surprised, giant eagles attack with advantage and may carry away their victim.---
+Giant eagles have 20 ft wingspans and hunt in mountains, forests and plains, generally preferring animal prey. In times of scarcity, or when feeding chicks, they are not above hunting humans, making opportunistic dives against lone explorers or small groups. If the target is surprised, giant eagles attack with advantage and may carry away their victim.

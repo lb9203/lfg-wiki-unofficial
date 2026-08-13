@@ -1,7 +1,5 @@
 # Exploration
 
-## Exploration
-
 Rules for exploration are provided below, including overland, underground, water voyages and flight. Portable light sources are covered on p.53.
 
 For a well provisioned party on a short trip, the GM might periodically check for random encounters, and call for an Int (Wilderness Lore) check. If failed, the explorers become temporarily lost, losing a day backtracking.
@@ -95,11 +93,6 @@ For starting weather, roll 1d8 with a -1/-2 modifier in especially hot climates,
 <td>3</td>
 <td>Warm, partly cloudy</td>
 </tr>
-</tbody>
-</table>
-
-<table border="1">
-<tbody>
 <tr>
 <td>4</td>
 <td>Warm and Cloudy</td>
@@ -243,9 +236,7 @@ A *Random Encounter* occurs.
 
 ### (8) World Building
 
-The explorers’ travel is relatively uneventful, providing ample time for study and contemplation. One player may propose a new piece of world building (place, history, NPC,
-
-legend, etc). If most of the table is entertained, and GM agrees, the proposed material becomes part of the setting.
+The explorers’ travel is relatively uneventful, providing ample time for study and contemplation. One player may propose a new piece of world building (place, history, NPC, legend, etc). If most of the table is entertained, and GM agrees, the proposed material becomes part of the setting.
 
 ### (9) Natural Wonder
 
@@ -267,9 +258,7 @@ The explorers' travel is relatively uneventful, providing ample time to strength
 
 ### (13) Short Cut
 
-The opportunity to take a short cut arises if the party can find it (unmarked river to sail, tunnels beneath the mountains, treetop rope bridges, game path through a bramble field, etc). Resolve as a Party Challenge focusing on Perc, Int,
-
-Detection, Wilderness Lore and Gather Information. If successful, the party doubles its travel speed for one day.
+The opportunity to take a short cut arises if the party can find it (unmarked river to sail, tunnels beneath the mountains, treetop rope bridges, game path through a bramble field, etc). Resolve as a Party Challenge focusing on Perc, Int, Detection, Wilderness Lore and Gather Information. If successful, the party doubles its travel speed for one day.
 
 ### (14) Low Supplies
 

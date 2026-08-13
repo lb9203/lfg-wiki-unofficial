@@ -1,6 +1,5 @@
 # Mass Battle
 
-## Mass Battle
 
 Mass battle is divided into two broad sets of rules:
 
@@ -19,8 +18,6 @@ The two rule sets may be used separately or together. If using *Party Spotlight*
 Regardless of mix of rules adopted, all mass battles end in the *Final Confrontation*: an epic showdown between the party and enemy leader(s) as they fight for ultimate victory.
 
 ## Party Spotlight
-
-### Party Spotlight
 
 The following rules are intended to zero in on the PCs, highlighting the adventurers’ exploits as the larger conflict surrounds them.
 
@@ -503,8 +500,6 @@ Destroyed units are removed from play. If a PC was directly involved in a unit t
 <td>2</td>
 <td><i>30% Survive</i>, but all have incapacitating injuries (broken limbs, severe organ damage, acute shock, etc).</td>
 </tr>
-</tbody>
-</table><table border="1">
 <tr>
 <td>3</td>
 <td>50% <i>Survive</i>. Of these, half fled the battlefield with minor wounds, the remainder are incapacitated. If this unit is replenished for a future mass battle, it has a 50% chance of retaining prior advancements (p.179).</td>
@@ -513,6 +508,7 @@ Destroyed units are removed from play. If a PC was directly involved in a unit t
 <td>4</td>
 <td>70% <i>Survive</i>. Of these, three quarters successfully fled the battlefield with minor wounds, the remainder are incapacitated. If this unit is replenished for a future mass battle, it retains prior advancements (p.179).</td>
 </tr>
+</tbody>
 </table>
 
 ### Party Resource Attrition
@@ -620,8 +616,6 @@ During a *Critical Event*, if combat is occurring nearby, the first time one of 
 <td>8</td>
 <td><i>Band of Brothers.</i> Rallying cheers from the PC's surrounding allies</td>
 </tr>
-</tbody>
-</table><table border="1">
 <tr>
 <td></td>
 <td>reinvigorates the adventurer (restore up to half of lost hit points).</td>
@@ -654,9 +648,6 @@ During a *Critical Event*, if combat is occurring nearby, the first time one of 
 <td>15</td>
 <td><i>Shaken Soul.</i> A series of dreadful atrocities personally witnessed by the PC threatens to traumatize them. A <i>Luck</i> (Will) save avoids a serious madness: <i>“Fair warning sister, I fought well just now, but dare not rely on my blade. Sometimes I freeze mid battle,</i></td>
 </tr>
-</table>
-
-<table border="1">
 <tr>
 <td></td>
 <td><i>just for a few moments, my mind locked in old terrors.”</i></td>
@@ -681,11 +672,10 @@ During a *Critical Event*, if combat is occurring nearby, the first time one of 
 <td>20</td>
 <td><i>Sorcery.</i> An enemy spell caster or warrior with a one shot magical item unleashes it upon the PC and nearby allies. Roll 1d6 (as 7<sup>th</sup> level Magic User): (1) <i>Channel Lighting</i>, (ii) <i>Wall of Fire</i>, (iii) <i>Web</i>, (iv) <i>Heat Metal</i>, (v) <i>Hold Person</i>, (vi) <i>Blindness</i>. There is a 20% chance of a DDM effect.</td>
 </tr>
+</tbody>
 </table>
 
 ## Units
-
-### Units
 
 *Standard Units* include *Militia*, *Infantry*, *Heavy Infantry*, *Archers* and *Cavalry*. GMs are encouraged to tinker with the categories as desired (eg: light vs heavy cavalry).
 
@@ -740,8 +730,6 @@ A small warband of giant kin.
 
 <table><tr><td><i>Armour</i></td><td>7+</td></tr><tr><td><i>Move</i></td><td>7+</td></tr><tr><td><i>Morale</i></td><td>7+</td></tr><tr><td><i>Trait</i></td><td>+2 bonus on <i>Melee Attacks</i>.</td></tr></table>
 
-©Frickelegren
-
 ### Scouts
 
 A stealthy band of swift moving pathfinders.
@@ -764,9 +752,7 @@ A rare contingent of elite warriors, well armed and armoured.
 
 At the GM's option, units that survive one or more mass battles might gain one of the following advancements (roll 1d10):
 
-<table border="1"><thead><tr><th colspan="2">UNIT ADVANCEMENT (1d10)</th></tr></thead><tbody><tr><td>1</td><td><i>Pathfinders</i>; once per mass battle, turn a failed <i>Move</i> check into a success.</td></tr><tr><td>2</td><td><i>Lucky Mascot</i>; once per mass battle, provided the mascot still lives, ignore the unit's first destroyed result.</td></tr><tr><td>3</td><td><i>Iron Grit</i>; lower the unit's <i>Armour</i> value by 1 point.</td></tr><tr><td>4</td><td><i>Rock Steady</i>; lower the unit's <i>Morale</i> by 3 points (minimum 3).</td></tr><tr><td>5</td><td><i>Proven Tactics</i>; the unit ignores <i>Ambush!</i> (ranged) and <i>Crushing Defeat</i> (melee) attack results.</td></tr><tr><td>6</td><td><i>No Mercy</i>; enemy units that must check <i>Morale</i> due to an attack from this unit automatically break.</td></tr><tr><td>7</td><td><i>Rage of the Gods</i>; attack twice per turn instead of once.</td></tr><tr><td>8</td><td><i>Weaponmasters</i>; roll d8s instead of d6s on attack rolls.</td></tr></tbody></table>
-
-<table border="1"><tr><td>9</td><td><i>Heroic Aura</i>; allied units in the same location (including this unit) gain advantage on <i>Morale</i> checks.</td></tr><tr><td>10</td><td><i>GM Special</i>; create a new trait for the unit.</td></tr></table>
+<table border="1"><thead><tr><th colspan="2">UNIT ADVANCEMENT (1d10)</th></tr></thead><tbody><tr><td>1</td><td><i>Pathfinders</i>; once per mass battle, turn a failed <i>Move</i> check into a success.</td></tr><tr><td>2</td><td><i>Lucky Mascot</i>; once per mass battle, provided the mascot still lives, ignore the unit's first destroyed result.</td></tr><tr><td>3</td><td><i>Iron Grit</i>; lower the unit's <i>Armour</i> value by 1 point.</td></tr><tr><td>4</td><td><i>Rock Steady</i>; lower the unit's <i>Morale</i> by 3 points (minimum 3).</td></tr><tr><td>5</td><td><i>Proven Tactics</i>; the unit ignores <i>Ambush!</i> (ranged) and <i>Crushing Defeat</i> (melee) attack results.</td></tr><tr><td>6</td><td><i>No Mercy</i>; enemy units that must check <i>Morale</i> due to an attack from this unit automatically break.</td></tr><tr><td>7</td><td><i>Rage of the Gods</i>; attack twice per turn instead of once.</td></tr><tr><td>8</td><td><i>Weaponmasters</i>; roll d8s instead of d6s on attack rolls.</td></tr><tr><td>9</td><td><i>Heroic Aura</i>; allied units in the same location (including this unit) gain advantage on <i>Morale</i> checks.</td></tr><tr><td>10</td><td><i>GM Special</i>; create a new trait for the unit.</td></tr></table>
 
 ## Final Confrontation
 

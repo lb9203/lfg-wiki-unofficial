@@ -8,6 +8,4 @@
 **Luck:** 11<br>
 **Move:** 30 ft<br>
 
-Stone golems are 12 ft statues that move in a robotic, grinding fashion. They have 60% *Magic Resistance*, except against *Stone to Flesh*, *Transmute Rock to Mud*, *Stone Shape*, or *Move Earth* which cause 6d8 damage (once only). A golem that hits a single target with both Fist attacks draws it into a crushing bear hug, forcing a *Luck (Con)* save to avoid rolling on the
-
-*Injuries & Setbacks* table. Stone golems have a 10 ft reach.
+Stone golems are 12 ft statues that move in a robotic, grinding fashion. They have 60% *Magic Resistance*, except against *Stone to Flesh*, *Transmute Rock to Mud*, *Stone Shape*, or *Move Earth* which cause 6d8 damage (once only). A golem that hits a single target with both Fist attacks draws it into a crushing bear hug, forcing a *Luck (Con)* save to avoid rolling on the *Injuries & Setbacks* table. Stone golems have a 10 ft reach.
